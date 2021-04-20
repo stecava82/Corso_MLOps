@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Corso_MLOps/mlruns/0/a85d007170bb439f9430419abc087a4c/artifacts
+end_time: 1618910440663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a85d007170bb439f9430419abc087a4c
+run_uuid: a85d007170bb439f9430419abc087a4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1618910437285
+status: 3
+tags: []
+user_id: stefano.cavaliere
