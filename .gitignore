@@ -1,2 +1,3 @@
 venv_corso_mlops/
 .vscode
+__pycache__/
